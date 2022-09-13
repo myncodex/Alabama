@@ -1,0 +1,6 @@
+name of the student: nima subair
+Rollnumber = 24
+Date and Time = 2022-09-14 00:07:42.185022
+Class = ECB 
+Activities = ['quiz', 'quiz', 'quiz', 'summit', 'webinar ', 'workshop ', 'workshop ']
+Total points = 40
